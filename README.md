@@ -3,7 +3,7 @@ Projet académique réalisé dans le cadre du module *Systèmes Répartis & Dist
 
 ## 📌 Objectif
 
-Développer un *moteur de recherche distribué* permettant l’indexation, la recherche et la visualisation de données textuelles à grande échelle à l’aide des technologies *Elasticsearch, **Logstash, **Kibana*, et une API REST.
+Développer un **moteur de recherche distribué** permettant l’indexation, la recherche et la visualisation de données textuelles à grande échelle à l’aide des technologies **Elasticsearch**, **Logstash**, **Kibana**, et une API REST.
 
 ## 👥 Équipe projet
 
@@ -33,7 +33,6 @@ L’architecture du moteur de recherche est composée de :
 - *Elasticsearch* : moteur de recherche distribué.
 - *Kibana* : visualisation des données indexées.
 - *API REST (Flask)* : permet à l'utilisateur de faire des requêtes de recherche.
-- (Optionnel) *Interface utilisateur web* : pour tester les recherches de manière plus intuitive.
 
 ---
 
