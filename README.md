@@ -1,4 +1,4 @@
-# Distributed-search-engine
+# 🔍 Moteur de Recherche Distribué
 Projet académique réalisé dans le cadre du module *Systèmes Répartis & Distribués* du master Analytique des données et intelligence artificielle – Faculté des Sciences d’Agadir.
 
 ## 📌 Objectif
