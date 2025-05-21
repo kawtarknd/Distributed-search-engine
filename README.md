@@ -12,7 +12,7 @@ Développer un **moteur de recherche distribué** permettant l’indexation, la 
 - Imane Moustike  
 - Ayoub Kennouz  
 
-Encadré par : *Pr. Idraiss Jaafar*
+Encadré par : *Pr. Idrais Jaafar*
 
 ---
 
